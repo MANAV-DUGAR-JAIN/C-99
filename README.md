@@ -1,2 +1,2 @@
-# C-99
-irdk
+# Removing_files
+solution for project 99
